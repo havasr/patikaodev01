@@ -1,5 +1,5 @@
 # **Patika Git Odev**
-Bu repo Patika ilk hafta ödevi kapsamında hazırlanmıştır.
+Bu repo Patika ilk hafta ödevi kapsamında hazırlanmıştır. 'Rastgele arkaplan' projesini içerir.
 
 ## **Installation**
 Öncelikle projeyi clonlayın. (Burya sizin reponuzdan aldığınız link gelecek.)
